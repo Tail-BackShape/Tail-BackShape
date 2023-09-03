@@ -2,7 +2,7 @@
 
   <dt>Who am I</dt>
     <dd>I am tail(call me tail or back_shape)</dd>
-    <dd>Student of Tokyo Metropolitan College of Industrial Technology(kosen)</dd>
+    <dd>Student of Japanese Technical School(kosen)</dd>
 
   <dt>Skill</dt>
     <dd>Python</dd>
