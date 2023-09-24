@@ -2,11 +2,12 @@
 
   <dt>Who am I</dt>
     <dd>I am tail(call me tail or back_shape)</dd>
-    <dd>Student of Japanese Technical School(kosen)</dd>
+    <dd>Student of Japanese Technical College(kosen)</dd>
 
   <dt>Skill</dt>
     <dd>Python</dd>
-    <dd>Processing(for 3D)</dd>
+    <dd>C</dd>
+    <dd>Processing(3D, Arduino)</dd>
     <dd>Arduino(C/C++)</dd>
     <dd>3DCAD(Inventor, Fusion360)</dd>
     <dd>PCBCAD(Kicad6.0 or 7.0)</dd>
