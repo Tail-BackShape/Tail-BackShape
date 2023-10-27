@@ -1,7 +1,7 @@
 <dl>
 
   <dt>Who am I</dt>
-    <dd>I am tail(call me tail or back_shape)</dd>
+    <dd>I am tail</dd>
     <dd>Student of Japanese Technical College(kosen)</dd>
 
   <dt>Skill</dt>
@@ -16,6 +16,6 @@
   <dt>What I'm doing</dt>
     <dd>Human Powered Airplane(HPA)</dd>
     <dd>Autopilot for radio-controlled Airplane</dd>
-    <dd>Speech synthesis based on human voice (development inactive)</dd>
+    <dd>Text To Speech and Speech To Speech</dd>
 
 </dl>
