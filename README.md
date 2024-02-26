@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tail-BackShape&layout=compact)](https://github.com/Tail-BackShape/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tail-BackShape&hide=Prolog)](https://github.com/Tail-BackShape/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tail-BackShape&show_icons=true&theme=moltack)
 
