@@ -9,10 +9,12 @@
 ## What I'm doing
 - Human Powered Airplane(HPA)
 - - Avionics Dev.
-- - Empennage making
-- Autopilot for radio-controlled Airplane
+- - Design Assist.
+- - Control sys. Dev.
+- R.C. Airplane
 - - Avionics Dev.
-- - I cant design the plane itself...
+- - Autopilot Dev.
+- - Aircraft Design
 - Text To Speech and Speech To Speech
 - - I'll do it by reinventing the wheel.
 - Cansat
