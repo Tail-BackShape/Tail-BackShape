@@ -4,6 +4,6 @@ interested in DSP and Avionics.
 - R.C. Airplane
 - Cansat
 
-![GitHub Stats](./profile/stats.svg)
+<!-- ![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](./profile/top-langs.svg) -->
